@@ -33,20 +33,39 @@ Capitulo 17 y 18
 
 ![image](https://user-images.githubusercontent.com/105899463/188209548-31f5ae64-df27-4b42-96b8-aec704f8b8d9.png)
 
+![image](https://user-images.githubusercontent.com/105899463/188210733-63a14b03-16bd-4b2a-8b9e-e2ff7998e34e.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188210796-ebffb7b2-755c-4d74-827b-f94d294606b3.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188210838-fd4f61cd-43bb-41e2-a8e5-f61034f79c93.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188210866-7d696066-ce12-4f6f-90f2-d2ba2f65348e.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188210911-70d2edbf-2dcc-4a03-9cb2-2c308718d095.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188210941-21f4eef2-8b50-4d98-b483-360b2772f2c4.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188210969-c006ab82-0133-4c80-8bf3-6a15dbaf6747.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188211006-b0080058-7808-4c43-89d3-199e48cc5bd8.png)
+
+![image](https://user-images.githubusercontent.com/105899463/188211036-258868dc-3814-4968-904e-a9f6613a43f4.png)
+
 
 4.VÍDEO
 
-Circuitos RLC
+Circuitos RLC y Resonancia
 [https://youtu.be/izTmoniT6QU](https://www.youtube.com/watch?v=i4-MmfOqEX0)
 
-Circuitos RL
+Filtros Pasivos
 [https://youtu.be/DRcRd8Fse_Y](https://www.youtube.com/watch?v=ZdnpQhbcnDM)
 
 5.CONCLUSIONES
 
 - Se logró obtener los conocimientos necesarios para indentificar, describir y analizar circuitos RLC (serie, paralelo y mixto)
 - Se logró didentificar y determinar su relacion corriente y voltaje.
-- Determinar impedancia y admitancia en cada uno de los circuitos RC y RL.
+- Determinar impedancia y admitancia en cada uno de los circuitos RLC.
+- se analizo  y desarrolló las operaciones de filtos RLC en pasabanda y rechazabanda.
 
 6.BIBLIOGRAFIA
 
